@@ -15,6 +15,7 @@ DB_PASSWORD=mydbpassword
 DB_NAME=gotutorial
 DB_HOST=mysql
 DB_PORT=3306
+MYSQL_ROOT_PASSWORD=mysqlrootpasswordexample
 ```
 
 Reference for http server and mysql: `https://gowebexamples.com/`
